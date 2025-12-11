@@ -1,0 +1,7 @@
+# 忽略 CSV 數據文件 (不讓別人的對話紀錄被上傳)
+*.csv
+*.lock
+
+# 忽略系統暫存檔
+.DS_Store
+Thumbs.db
